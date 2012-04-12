@@ -1,0 +1,2 @@
+This is my PhD thesis. It can be dynamically generated with the [**knitr**](http://yihui.name/knitr) package. To compile it to other formats like HTML or LaTeX/PDF or EPub, you need to install [pandoc](http://johnmacfarlane.net/pandoc/). See the [knitr-book] repository for instructions on compilation. You should always use the development version of **knitr** because I'm likely to add new features as I eat my own dog food.
+
